@@ -10,3 +10,4 @@ func TestHotList(t *testing.T) {
 	//url := hotList("孙正义出售软银800亿美元资产")
 	fmt.Println(url)
 }
+
