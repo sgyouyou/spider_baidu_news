@@ -14,4 +14,6 @@ CREATE TABLE `news` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 ```
 
+修改database/main.go 中WorkDb方法的数据库配置为自己的数据库
+
 运行: go run main.go
